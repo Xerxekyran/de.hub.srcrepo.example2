@@ -32,4 +32,6 @@ public class HelloWorld {
 	public void say(String str, Player p) {
 	    System.out.println(str);
 	}
+	
+	public void say2() {}
 }
